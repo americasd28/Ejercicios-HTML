@@ -1,0 +1,23 @@
+<html lang=es> <!--le faltan comillas a es--> <!--Faltaban comillas en el valor del atributo-- > <!--El comentario tiene un error de cierre-->
+<head>
+<meta charset=”UTF-65”> <!--El valor correcto para charset debería ser "UTF-8"-->
+ <meta name="viewport" content="Ejercicio HTML - Corrige los errores"> 
+<meta name="viewport" content="width=device-width,initial-scale=1.0"> <!--Debe haber solo un meta-->
+
+
+</head>
+<title>World Wide Web</title>
+<body>
+
+<h1>World Wide Web</h1>
+
+<p>
+En informática, la <strong>World Wide Web<strong> (WWW) o red informática mundial comúnmente conocida como la web, es un sistema de distribución de documentos de hipertexto o hipermedios interconectados y accesibles vía Internet. Con un navegador web, un usuario visualiza sitios web compuestos de páginas web que pueden contener texto, imágenes, vídeos u otros contenidos multimedia, y navega a través de esas páginas usando hiperenlaces. <!-- etiqueta strong en el párrafo no está correctamente cerrada-->
+
+<h2>Historia<h2> <!--La etiqueta h2 también falta el cierre-->
+
+<p>
+La web se desarrolló entre marzo de 1989 y diciembre de 1990 por el inglés Tim Berners-Lee con la ayuda del belga Robert Cailliau mientras trabajaban en el <em>CERN en Ginebra, Suiza, y publicado en 1992. <!--El cierre de la etiqueta em esta mal ubicado-->
+</p>
+
+<p>Fuente: <em>Wikipedia</p></em>
